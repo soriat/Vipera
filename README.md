@@ -21,8 +21,8 @@ Now as you can imagine, the platform this runs on is ancient. Specifically, this
 is a java applet.
 
 Here's how to run it:
- 1) Download / Update Java JRE
- 2) Compile the project `javac *.java`
- 3) Run the applet: `appletviewer index.html`
+ 1. Download / Update Java JRE
+ 2. Compile the project `javac *.java`
+ 3. Run the applet: `appletviewer index.html`
 
 I made it spit our garbage to the terminal to make the thread not freeze.
